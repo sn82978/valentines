@@ -31,7 +31,9 @@ function App() {
         <img src="bmval.gif" width="600" height="300" alt="Valentine" />
       </div>
       
-      <h1>hi maan 😼</h1>
+      <h1>hello maan 😼</h1>
+
+      <p>u have to say yes.</p>
       
       {!answered && (
         <div className="card" style={{ display: 'flex', gap: '20px', justifyContent: 'center' }}>
