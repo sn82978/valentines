@@ -31,8 +31,8 @@ function App() {
         <img src="bmval.gif" width="600" height="300" alt="Valentine" />
       </div>
       
-      <h1>hello maan 😼</h1>
-
+      <h1>hello min</h1> 
+{/* 😼 */}
       <p>u have to say yes.</p>
       
       {!answered && (
